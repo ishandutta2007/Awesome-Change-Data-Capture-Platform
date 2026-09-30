@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Change-Data-Capture-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Change-Data-Capture-Platform?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Change-Data-Capture-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Change-Data-Capture-Platform?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Change-Data-Capture-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Change-Data-Capture-Platform?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Change-Data-Capture-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Change-Data-Capture-Platform/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -71,36 +71,36 @@ The following managed and SaaS platforms provide zero-ops or low-maintenance log
 
 ## 🛠️ Open-Source GitHub Projects
 
-Open-source projects form the backbone of modern streaming data architecture. Below are the top open-source CDC engines, sorted by GitHub star counts.
+Open-source projects form the backbone of modern streaming data architecture. Below are the top open-source CDC engines, sorted by GitHub Stars_Counts.
 
-*   **[Alibaba Canal](https://github.com/alibaba/canal)** [![GitHub stars](https://img.shields.io/github/stars/alibaba/canal?style=social)](https://github.com/alibaba/canal/stargazers)  
+*   **[Alibaba Canal](https://github.com/alibaba/canal)** [![GitHub_Stars](https://img.shields.io/github/stars/alibaba/canal?style=social)](https://github.com/alibaba/canal/stargazers)  
     Alibaba’s battle-tested MySQL binlog incremental subscription and consumption component, widely deployed in massive-scale Chinese tech ecosystems.
 
-*   **[Airbyte](https://github.com/airbytehq/airbyte)** [![GitHub stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social)](https://github.com/airbytehq/airbyte/stargazers)  
+*   **[Airbyte](https://github.com/airbytehq/airbyte)** [![GitHub_Stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social)](https://github.com/airbytehq/airbyte/stargazers)  
     Open-source data integration engine featuring 300+ connectors, including log-based CDC connectors for Postgres (`pgoutput`), MySQL (`binlog`), and SQL Server (`cdc`).
 
-*   **[Debezium](https://github.com/debezium/debezium)** [![GitHub stars](https://img.shields.io/github/stars/debezium/debezium?style=social)](https://github.com/debezium/debezium/stargazers)  
+*   **[Debezium](https://github.com/debezium/debezium)** [![GitHub_Stars](https://img.shields.io/github/stars/debezium/debezium?style=social)](https://github.com/debezium/debezium/stargazers)  
     The industry-standard open-source CDC platform. Captures row-level database changes from MySQL, Postgres, MariaDB, SQL Server, Oracle, MongoDB, and Cassandra into Kafka.
 
-*   **[Redpanda Connect](https://github.com/redpanda-data/connect)** [![GitHub stars](https://img.shields.io/github/stars/redpanda-data/connect?style=social)](https://github.com/redpanda-data/connect/stargazers)  
+*   **[Redpanda Connect](https://github.com/redpanda-data/connect)** [![GitHub_Stars](https://img.shields.io/github/stars/redpanda-data/connect?style=social)](https://github.com/redpanda-data/connect/stargazers)  
     Formerly Benthos—a high-performance stream processor and CDC pipeline engine offering lightweight deployment and seamless event transformation.
 
-*   **[Apache SeaTunnel](https://github.com/apache/seatunnel)** [![GitHub stars](https://img.shields.io/github/stars/apache/seatunnel?style=social)](https://github.com/apache/seatunnel/stargazers)  
+*   **[Apache SeaTunnel](https://github.com/apache/seatunnel)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/seatunnel?style=social)](https://github.com/apache/seatunnel/stargazers)  
     Next-generation, ultra-high-performance distributed real-time data integration platform supporting CDC source connector plugins.
 
-*   **[Apache Flink CDC](https://github.com/apache/flink-cdc)** [![GitHub stars](https://img.shields.io/github/stars/apache/flink-cdc?style=social)](https://github.com/apache/flink-cdc/stargazers)  
+*   **[Apache Flink CDC](https://github.com/apache/flink-cdc)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/flink-cdc?style=social)](https://github.com/apache/flink-cdc/stargazers)  
     Streaming data integration framework built on Apache Flink, allowing full CDC capturing, stateful stream processing, and schema evolution.
 
-*   **[Maxwell’s Daemon](https://github.com/zendesk/maxwell)** [![GitHub stars](https://img.shields.io/github/stars/zendesk/maxwell?style=social)](https://github.com/zendesk/maxwell/stargazers)  
+*   **[Maxwell’s Daemon](https://github.com/zendesk/maxwell)** [![GitHub_Stars](https://img.shields.io/github/stars/zendesk/maxwell?style=social)](https://github.com/zendesk/maxwell/stargazers)  
     Reads MySQL binlogs and writes change events as clean JSON to Kafka, Kinesis, RabbitMQ, Redis, or NATS with minimal configuration.
 
-*   **[PeerDB](https://github.com/PeerDB-io/peerdb)** [![GitHub stars](https://img.shields.io/github/stars/PeerDB-io/peerdb?style=social)](https://github.com/PeerDB-io/peerdb/stargazers)  
+*   **[PeerDB](https://github.com/PeerDB-io/peerdb)** [![GitHub_Stars](https://img.shields.io/github/stars/PeerDB-io/peerdb?style=social)](https://github.com/PeerDB-io/peerdb/stargazers)  
     Blazing-fast open-source Postgres-first CDC tool engineered specifically for streaming WAL logs to ClickHouse, Snowflake, and BigQuery.
 
-*   **[Tapdata](https://github.com/tapdata/tapdata)** [![GitHub stars](https://img.shields.io/github/stars/tapdata/tapdata?style=social)](https://github.com/tapdata/tapdata/stargazers)  
+*   **[Tapdata](https://github.com/tapdata/tapdata)** [![GitHub_Stars](https://img.shields.io/github/stars/tapdata/tapdata?style=social)](https://github.com/tapdata/tapdata/stargazers)  
     Real-time data pipeline & CDC tool featuring a visual drag-and-drop workflow builder for heterogeneous database synchronization.
 
-*   **[Debezium Server](https://github.com/debezium/debezium-server)** [![GitHub stars](https://img.shields.io/github/stars/debezium/debezium-server?style=social)](https://github.com/debezium/debezium-server/stargazers)  
+*   **[Debezium Server](https://github.com/debezium/debezium-server)** [![GitHub_Stars](https://img.shields.io/github/stars/debezium/debezium-server?style=social)](https://github.com/debezium/debezium-server/stargazers)  
     Standalone lightweight runtime for Debezium connectors that streams events directly to AWS Kinesis, Google Pub/Sub, Redis, or Apache Pulsar without requiring Kafka Connect.
 
 ---
